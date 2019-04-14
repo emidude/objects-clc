@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FF682A0F-C813-BF02-F226-1192FA3BEC56}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Info.cs">
+    <Files>
+      <File FileName="Assets/Game.cs" Line="41" Column="21" />
+      <File FileName="Assets/SphereGenerator.cs" Line="20" Column="5" />
+      <File FileName="Assets/Info.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
